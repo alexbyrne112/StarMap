@@ -61,7 +61,10 @@ void draw()
  stroke(255,0,0);
  ellipse(401,401,11,11);
  
- 
+ /*
  //numbering the grid with X and Y co-ordinates
- 
+ textSize(10);
+ fill(230,0,200);
+ text("5" 2,11);
+ */
 }
