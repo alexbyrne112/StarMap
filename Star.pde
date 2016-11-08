@@ -38,11 +38,3 @@ void loadData()
     starsArray.add(mover);
   }
 }
-
-/*void displayData()
-{
- for(Star s: starsArray)
- {
-   println(s.hab + s.name + s.distance + s.xg + s.yg + s.zg + s.starsize);
- }
-}*/
